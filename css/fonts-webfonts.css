@@ -1,0 +1,76 @@
+/**
+ * @license
+  * MyFonts Webfont Build ID 3845218, 2019-12-08T13:06:33-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: HelveticaNowDisplay-Regular by Monotype
+ * URL: https://www.myfonts.com/fonts/mti/helvetica-now/display-regular/
+ * 
+ * Webfont: HelveticaNowDisplay-Bd by Monotype
+ * URL: https://www.myfonts.com/fonts/mti/helvetica-now/display-bold/
+ * 
+ * Webfont: HelveticaNowDisplay-Md by Monotype
+ * URL: https://www.myfonts.com/fonts/mti/helvetica-now/display-medium/
+ * 
+ * Webfont: HelveticaNowDisplay-XBd by Monotype
+ * URL: https://www.myfonts.com/fonts/mti/helvetica-now/display-extrabold/
+ * 
+ * 
+ * Licensed pageviews: 250,000
+ * Webfonts copyright: Copyright © 2019 Monotype Imaging Inc. All rights reserved.
+ * 
+ * © 2019 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+
+/* MyFonts Settings:
+OpenType Layout: Selected
+Hinting: Native
+SVG format: Selected
+Line Height: Bounding Box */
+
+@import url("//hello.myfonts.net/count/3aac62");
+
+
+@font-face {
+	font-family: 'Helvetica Now Display DW';
+	font-weight: 400;
+	font-style: normal;
+	src: url('../fonts/webfonts-3AAC62_0_0.eot');
+	src: url('../fonts/webfonts-3AAC62_0_0.eot?#iefix') format('embedded-opentype'), url('../fonts/webfonts-3AAC62_0_0.woff2') format('woff2'), url('../fonts/webfonts-3AAC62_0_0.woff') format('woff'), url('../fonts/webfonts-3AAC62_0_0.ttf') format('truetype'), url('webfonts/3AAC62_0_0.svg#wf') format('svg');
+}
+
+
+@font-face {
+	font-family: "Helvetica Now Display DW";
+	font-weight: 700;
+	font-style: normal;
+	src: url('../fonts/webfonts-3AAC62_1_0.eot');
+	src: url('../fonts/webfonts-3AAC62_1_0.eot?#iefix') format('embedded-opentype'), url('../fonts/webfonts-3AAC62_1_0.woff2') format('woff2'), url('../fonts/webfonts-3AAC62_1_0.woff') format('woff'), url('../fonts/webfonts-3AAC62_1_0.ttf') format('truetype'), url('webfonts/3AAC62_1_0.svg#wf') format('svg');
+	src: url('../fonts/webfonts-3AAC62_1_0.eot?#iefix') format('embedded-opentype'), url('../fonts/webfonts-3AAC62_1_0.woff2') format('woff2'), url('../fonts/webfonts-3AAC62_1_0.woff') format('woff'), url('../fonts/webfonts-3AAC62_1_0.ttf') format('truetype'), url('webfonts/3AAC62_1_0.svg#wf') format('svg');
+}
+
+
+@font-face {
+	font-family: "Helvetica Now Display DW";
+	font-weight: 500;
+	font-style: normal;
+	src: url('../fonts/webfonts-3AAC62_2_0.eot');
+	src: url('../fonts/webfonts-3AAC62_2_0.eot?#iefix') format('embedded-opentype'), url('../fonts/webfonts-3AAC62_2_0.woff2') format('woff2'), url('../fonts/webfonts-3AAC62_2_0.woff') format('woff'), url('../fonts/webfonts-3AAC62_2_0.ttf') format('truetype'), url('webfonts/3AAC62_2_0.svg#wf') format('svg');
+}
+
+
+@font-face {
+	font-family: "Helvetica Now Display DW";
+	font-weight: 800;
+	font-style: normal;
+	src: url('../fonts/webfonts-3AAC62_3_0.eot');
+	src: url('../fonts/webfonts-3AAC62_3_0.eot?#iefix') format('embedded-opentype'), url('../fonts/webfonts-3AAC62_3_0.woff2') format('woff2'), url('../fonts/webfonts-3AAC62_3_0.woff') format('woff'), url('../fonts/webfonts-3AAC62_3_0.ttf') format('truetype'), url('webfonts/3AAC62_3_0.svg#wf') format('svg');
+}
